@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔹 IIC Student Convener | Sports Secretary<br>🔹 Competitive Programmer | CodeChef Div 1 | Codeforces Specialist<br>🔹 LeetCode Top 7.53% | SIH 2023 Finalist<br>🔹 Full-Stack Developer | Next.js | Supabase | Python<br><br>🚀 Passionate about problem-solving, system design, and building scalable web applications.<br>📌 Always learning and exploring new technologies.
+
+🔹 IIC Student Convener | Sports Secretary at Liet
+🔹 GenAI Engineer
+🔹 MLH Prize Winner | SIH 2023 Finalist | 5+ hackathon prize winner
 
 
 ## 🌐 Socials:
